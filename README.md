@@ -4,7 +4,22 @@ This repository contains code to reproduce the experimental results from the pap
 
 **_Egalitarian Gradient Descent: A Simple Approach to Accelerated Grokking_**  
 Accepted at **ICLR 2026**
+---
 
+## Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/asahebpa/Egalitarian-Gradient-Descent.git
+cd Egalitarian-Gradient-Descent
+```
+
+### Create and activate the environment
+
+```bash
+conda env create -f environment.yml
+conda activate grok
+```
 ---
 
 ## Repository Structure
@@ -39,22 +54,6 @@ Code to reproduce the **comparison experiments between Grokfast and EGD**.
 
 Modifications were made only as necessary to ensure a fair and consistent comparison with EGD.
 
----
-
-## Installation
-
-### Clone the repository
-```bash
-git clone https://github.com/asahebpa/Egalitarian-Gradient-Descent.git
-cd Egalitarian-Gradient-Descent
-```
-
-### Create and activate the environment
-
-```bash
-conda env create -f environment.yml
-conda activate grok
-```
 ---
 
 ## Notes
