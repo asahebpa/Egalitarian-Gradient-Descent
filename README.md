@@ -41,6 +41,22 @@ Modifications were made only as necessary to ensure a fair and consistent compar
 
 ---
 
+## Installation
+
+### Clone the repository
+```bash
+git clone https://github.com/asahebpa/Egalitarian-Gradient-Descent.git
+cd Egalitarian-Gradient-Descent
+```
+
+### Create and activate the environment
+
+```bash
+conda env create -f environment.yml
+conda activate grok
+```
+---
+
 ## Notes
 - All experiments are designed for reproducibility.
 - Hyperparameters and settings follow those described in the paper unless stated otherwise.
