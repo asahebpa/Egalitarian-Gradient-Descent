@@ -1,0 +1,1 @@
+# Egalitarian-Gradient-Descent
